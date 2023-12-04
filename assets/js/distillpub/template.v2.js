@@ -8985,7 +8985,7 @@ distill-header .nav a {
     Distill
   </a>
   <nav class="nav">
-    <a href="/about/">About</a>
+    <a href="/about/">about</a>
     <a href="/prize/">Prize</a>
     <a href="/journal/">Submit</a>
   </nav>
@@ -9135,7 +9135,7 @@ distill-header .nav a {
   </a> is dedicated to clear explanations of machine learning
 
   <div class="nav">
-    <a href="https://distill.pub/about/">About</a>
+    <a href="https://distill.pub/about/">about</a>
     <a href="https://distill.pub/journal/">Submit</a>
     <a href="https://distill.pub/prize/">Prize</a>
     <a href="https://distill.pub/archive/">Archive</a>
